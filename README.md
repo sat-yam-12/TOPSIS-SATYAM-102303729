@@ -101,7 +101,8 @@ Higher score ⇒ Better rank
 
 # Result Graph:-
 
-<img width="1309" height="672" alt="image" src="https://github.com/user-attachments/assets/e795908e-5a0d-4bd1-8979-5b232a50aa5d" />
+<img width="1483" height="759" alt="image" src="https://github.com/user-attachments/assets/3570bfaf-73b7-4b14-b2ba-7c9fc6c0db1f" />
+
 
 <br>
 
