@@ -99,7 +99,7 @@ Higher score ⇒ Better rank
 
 <br>
 
-# Result Graph
+# Result Graph:-
 
 <img width="1309" height="672" alt="image" src="https://github.com/user-attachments/assets/e795908e-5a0d-4bd1-8979-5b232a50aa5d" />
 
