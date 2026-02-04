@@ -21,7 +21,6 @@ Higher score indicates better alternative
 <br>
 
 # Part-II: Python Package (PyPI)
-<br>
 
 ```text The TOPSIS program was converted into a Python package and successfully uploaded to the Python Package Index (PyPI). The package is available at:
 https://pypi.org/project/Topsis-Satyam-102303729/1.0.0/
