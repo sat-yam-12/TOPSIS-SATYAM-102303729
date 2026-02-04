@@ -23,6 +23,26 @@ Higher score indicates better alternative
 # Part-II: Python Package (PyPI)
 <br>
 
+```textThe TOPSIS program was converted into a Python package and successfully uploaded to the Python Package Index (PyPI). The package is available at:
+https://pypi.org/project/Topsis-Satyam-102303729/1.0.0/
+```
+<br>
+
+```text It can be installed using the command pip install Topsis-Satyam-102303729.
+```
+
+```text After installation, the package can be executed from the command line using:  topsis-satyam <input_file> "w1,w2,..." "+,-,..." <output_file>,
+for example topsis-satyam data.csv "1,1,1,1,1" "+,+,+,+,+" output.csv. 
+```
+<br>
+
+```text
+If the command is not recognized, the program can alternatively be executed using
+python -m topsis.topsis data.csv "1,1,1,1,1" "+,+,+,+,+" output.csv.
+ A detailed user manual and implementation details are provided in the file Part2/Readme.md.
+```
+<br>
+
 # Part-III: TOPSIS Web Service
 
 <br>
