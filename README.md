@@ -21,26 +21,25 @@ Higher score indicates better alternative
 <br>
 
 # Part-II: Python Package (PyPI)
-```text
 The TOPSIS program is converted into a Python package and uploaded to PyPI.
 
-PyPI Link
+**PyPI Link**  
 https://pypi.org/project/Topsis-Satyam-102303729/1.0.0/
 
-Installation
+**Installation**  
 pip install Topsis-Satyam-102303729
 
-Usage
+**Usage**  
 topsis-satyam <input_file> "w1,w2,..." "+,-,..." <output_file>
 
-Example
+**Example**  
 topsis-satyam data.csv "1,1,1,1,1" "+,+,+,+,+" output.csv
 
-If the command is not recognized:
+If the command is not recognized:  
 python -m topsis.topsis data.csv "1,1,1,1,1" "+,+,+,+,+" output.csv
 
 A detailed user manual is available in Part2/Readme.md.
-```
+
 
 <br>
 
