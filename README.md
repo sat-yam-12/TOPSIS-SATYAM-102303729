@@ -30,7 +30,6 @@ https://pypi.org/project/Topsis-Satyam-102303729/1.0.0/
 
 ```text It can be installed using the command pip install Topsis-Satyam-102303729.
 ```
-
 ```text After installation, the package can be executed from the command line using:  topsis-satyam <input_file> "w1,w2,..." "+,-,..." <output_file>,
 for example topsis-satyam data.csv "1,1,1,1,1" "+,+,+,+,+" output.csv. 
 ```
