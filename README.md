@@ -24,7 +24,7 @@ Higher score indicates better alternative
 The TOPSIS program is converted into a Python package and uploaded to PyPI.
 
 **PyPI Link**  
-https://pypi.org/project/Topsis-Satyam-102303729/1.0.0/
+https://pypi.org/project/Topsis-Satyam-102303729/1.0.1/
 
 **Installation**  
 pip install Topsis-Satyam-102303729
